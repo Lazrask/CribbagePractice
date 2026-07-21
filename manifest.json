@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "Cribbage Practice",
   "short_name": "Cribbage",
@@ -12,4 +13,20 @@
       "type": "image/png"
     }
   ]
+=======
+{
+  "name": "Cribbage Practice",
+  "short_name": "Cribbage",
+  "start_url": "/CribbagePractice/",
+  "display": "standalone",
+  "background_color": "#008000",
+  "theme_color": "#008000",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+>>>>>>> 2adce6aff91ef6fcec63aedbd817b34fbef59352
 }
